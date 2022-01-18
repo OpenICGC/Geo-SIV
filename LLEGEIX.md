@@ -115,3 +115,48 @@ L’usuari podrà distingir dues carpetes principals:
 	- SwigRef.m**
 	- CoolPropMATLAB_wrap.mexw64
 	- Coolprop-howto.txt
+
+**Llicència**: El producte ha estat publicat sota llicència _Creative Commons licence Attribution 4.0 International_, coneguda com CC BY 4.0.
+
+**Com citar l'App**: 
+
+- García-Céspedes, J., Herms, I., Arnó, G., Ariza, J., De Felipe, J. J. (2022): Geo-SIV (v1.1) [programari]. Institut Cartogràfic i Geològic de Catalunya i Universitat Politècnica de Catalunya. CC-BY 4.0.
+
+
+**Per a més informació:**
+
+-   Pàgina web: [https://icgc.cat/ca/Administracio-i-empresa/Serveis/Geotermia/Avaluacio-preliminar-de-sistemes-d-intercanvi-geotermic-en-circuit-vertical-tancat-Geo-SIV](https://icgc.cat/ca/Administracio-i-empresa/Serveis/Geotermia/Avaluacio-preliminar-de-sistemes-d-intercanvi-geotermic-en-circuit-vertical-tancat-Geo-SIV)
+-   Adreça electrònica de contacte: [geotermia@icgc.cat](mailto:geotermia@icgc.cat)
+
+
+**Referències bibliogràfiques:**
+
+- AENOR UNE-100715:2014. “_Diseño, ejecución y seguimiento de una instalación geotérmica somera. Parte 1: Sistemas de circuito cerrado vertical_” (2014).
+
+- AENOR UNE-EN 14825:2016. _“Acondicionadores de aire, enfriadoras de líquido y bombas de calor con compresor accionado eléctricamente para la calefacción y la refrigeración de locales. Ensayos y clasificación en condiciones de carga parcial y cálculo del rendimiento estacional”_ (2016).
+
+- AENOR UNE-EN 14511-1:2019. “_Acondicionadores de aire, enfriadoras de líquido y bombas de calor para la calefacción y la refrigeración de locales y enfriadoras de proceso con compresores accionados eléctricamente._  _Parte 1: Términos y definiciones_” (2019).
+
+- Ariza J., de Felipe J. J., Herms I., _“Implementation of methodologies for calculating vertical Borehole Heat Exchangers lengths for Ground Source Heat Pump systems in MATLAB. Master’s thesis”._ Universitat Politècnica de Catalunya (2020) (available online at: [https://upcommons.upc.edu/bitstream/handle/2117/333862/tfm-javier-ariza-vdef.pdf?sequence=1&isAllowed=y](https://upcommons.upc.edu/bitstream/handle/2117/333862/tfm-javier-ariza-vdef.pdf?sequence=1&isAllowed=y))
+
+- ASHRAE (_American Society of Heating, Refrigerating, and Air Conditioning Engineers_). “_ASHRAE Handbook of Fundamentals_ _Volume_” (1985)
+
+Bell I. H., Wronski J., Quoilin S. and Lemort V., “_Pure and Pseudo-pure Fluid Thermophysical Property Evaluation. the Open-Source Thermophysical Property Library CoolProp_”, Industrial & Engineering Chemistry Research 53 (6) (2014) 2498-2508 ([www.coolprop.org](http://www.coolprop.org))
+
+- ICGC (Institut Cartogràfic i Geològic de Catalunya). “_Geoíndex. Geotèrmia superficial_”. (2018). Disponible a través del següent enllaç: [www.icgc.cat/ca/Administracio-i-empresa/Eines/Visualitzadors-Geoindex/Geoindex-Geotermia-superficial](https://www.icgc.cat/ca/Administracio-i-empresa/Eines/Visualitzadors-Geoindex/Geoindex-Geotermia-superficial)
+
+- IDAE (_Instituto para la Diversificación y el Ahorro Energético_), “_Guía técnica de diseño de sistemas de intercambio geotérmico de circuito cerrado_” (2012)
+
+- IGSHPA (_International Ground Source Heat Pump Association_), “_Ground source heat pump residential and light commercial : design and installation guide_” (2009)
+
+- Ingersoll L.R. and Plass H.J., “_Theory of the ground pipe heat source for the heat pump_”, ASHVE Trans. 47 (1948) 339-348.
+
+- MITMA (_Ministerio de Transportes, Movilidad y Agencia Urbana_), “_Código Técnico de la Edificación (CTE). Documento Básico HE Ahorro de energía (HE)_” (2019)
+
+- NRCAN (_Ministry of Natural Resources, Canada_), “_RETScreen® International: Clean Energy Decision Support Centre._ _Ground-Source Heat Pump Project Analysis_” (2005). Disponible a través del següent enllaç: [https://publications.gc.ca/collections/Collection/M39-111-2005E.pdf](https://publications.gc.ca/collections/Collection/M39-111-2005E.pdf)
+
+- NRCAN (_Ministry of Natural Resources, Canada_), “_RETScreen® International: “RETScreen Clean Energy Management Software_” (2016). Disponible a través del següent enllaç: [www.nrcan.gc.ca/maps-tools-and-publications/tools/modelling-tools/retscreen/7465](https://www.nrcan.gc.ca/maps-tools-and-publications/tools/modelling-tools/retscreen/7465)
+
+- Yang H., Cui P. and Fang Z., “_Vertical-borehole ground-coupled heat pumps: A review of models and Systems_”, Applied Energy 87 (2010) 16-27
+
+
