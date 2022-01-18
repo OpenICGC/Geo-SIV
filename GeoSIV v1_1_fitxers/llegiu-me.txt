@@ -1,0 +1,17 @@
+                                   Geo-SIV (v1.1) (2022)                                          
+                       Institut Cartogràfic i Geològic de Catalunya
+			   Universitat Politècnica de Catalunya
+					CC-BY 4.0                                            
+
+Consells d'instal·lació: Copieu l'arxiu d'instal·lació "GeoSIV 1_1 installer.exe" en una 
+ubicació diferent a la carpeta de descàrrega abans d'executar-ho.
+
+Si us plau, reporteu qualsevol comentari a la següent adreça electrònica:
+geotermia@icgc.cat
+
+Gràcies per utilitzar Geo-SIV 1.1
+
+
+
+
+
