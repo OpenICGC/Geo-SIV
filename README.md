@@ -46,9 +46,9 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 		- **t150.tif** (mapa temperatura terreny profunditat 150 m, àmbit Catalunya)
 		- **MUSE_ThermalConductivity.tif** (mapa conductivitat tèrmica del terreny, àmbit àrees urbana i periurbana Girona ciutat)
 		- **MUSE_ThermalDifusivity.tif** (mapa difussivitat tèrmica del terreny, àmbit àrees urbana i periurbana Girona ciutat)
-		- **MUSE_t050.tif** (mapa temperatura terreny profunditat 50 m, àmbit àrees urbana i periurbana Girona ciutat)
+		- **MUSE_t050.tif** (mapa temperatura terreny profunditat 50 m, àmbit àrees urbana i periurbana Girona ciutat generat en el projecte Europeu GeoERA MUSE)
 
-	- **Arxius de paràmetres amb valor fixe (no editable per l’usuari a la GUI de Geo-SIV)**:
+	- **Arxius de paràmetres amb valor fix (no editable per l’usuari a la GUI de Geo-SIV)**:
 
 		- **001_Yearly t-bin.xlsx** (ocurrència, en nombre d’hores per any, dels valors temperatura seca mitjana compresos en l’interval Tbin ±1°C, per als set climes de referència que apliquen al territori de Catalunya, B3, C2, C3, D1, D2, D3 i E1)
 
