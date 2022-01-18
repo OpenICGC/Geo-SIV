@@ -18,7 +18,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 		- 01_Imatge_Perforar.jpg
 		- 01_Logo_corto_geo-SIV.png
-		- 02_02_Imatge_SalaTec.jpg
+		- 02_Imatge_SalaTec.jpg
 		- 03_Logo_CC-By_4.0.png
 		- 05_Logo_UPC.png
 		- alerta_icono_2.png
@@ -36,10 +36,10 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 		- U-simple.png
 
 	- **Arxius d’imatge (_rasters_)**:
-		- **CondTerm.tif** (mapa conductivitat tèrmica del terreny, àmbit Catalunya)
+		- **ThermalConductivity.tif** (mapa conductivitat tèrmica del terreny, àmbit Catalunya)
 		- **dies_cooling_23.tif** (mapa dies en mode refrigeració, àmbit Catalunya)
 		- **dies_heating_18.tif** (mapa dies en mode calefacció, àmbit Catalunya)
-		- **Difusivi.tif** (mapa difussivitat tèrmica del terreny, àmbit Catalunya)
+		- **ThermalDifusivity.tif** (mapa difussivitat tèrmica del terreny, àmbit Catalunya)
 		- **MDE30x30.zip** (fitxer comprimit del mapa altitud, àmbit Catalunya)
 		- **provincies.zip** (fitxer comprimit del mapa distinció províncies, àmbit Catalunya)
 		- **t_med_air.zip** (fitxer comprimit del mapa temperatura mitjana anual, àmbit Catalunya)
