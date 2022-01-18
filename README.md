@@ -16,9 +16,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 	-   **Arxius d’imatge (logos i informació)**:
 
-		- 01_Imatge_Perforar.jpg
 		- 01_Logo_corto_geo-SIV.png
-		- 02_Imatge_SalaTec.jpg
 		- 03_Logo_CC-By_4.0.png
 		- 05_Logo_UPC.png
 		- alerta_icono_2.png
