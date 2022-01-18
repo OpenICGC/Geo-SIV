@@ -10,13 +10,13 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 L’usuari podrà distingir dues carpetes principals:
 
- - carpeta **Geo-SIV v1.0 executable**: Conté l’arxiu autònom d’instal·lació creat amb MATLAB app designer (Mathworks Inc.) compilat per a Microsoft WindowsTM (GeoSIV 1_0 installer.exe). Durant el procés d’instal·lació, es requerirà la baixada automàtica i gratuïta de certes llibreries de MATLAB per a la correcta execució de l’aplicació. Per tant, cal una connexió a internet activa durant la instal·lació de Geo-SIV en cas de no disposar prèviament d’aquestes llibreries.
+ - carpeta **Geo-SIV v1.1 executable**: Conté l’arxiu autònom d’instal·lació creat amb MATLAB app designer (Mathworks Inc.) compilat per a Microsoft WindowsTM (GeoSIV 1_0 installer.exe). Durant el procés d’instal·lació, es requerirà la baixada automàtica i gratuïta de certes llibreries de MATLAB per a la correcta execució de l’aplicació. Per tant, cal una connexió a internet activa durant la instal·lació de Geo-SIV en cas de no disposar prèviament d’aquestes llibreries.
 
- - carpeta **GeoSIV v1.0 files**: Conté l’arxiu del codi font a més d’una sèrie d’arxius necessaris per a la correcta compilació i execució de l’aplicació:
+ - carpeta **GeoSIV v1.1 files**: Conté l’arxiu del codi font a més d’una sèrie d’arxius necessaris per a la correcta compilació i execució de l’aplicació:
 
-	-   **GeoSIV_codi1_10.mlapp**: Arxiu de codi font. Per a poder obrir-ho i editar, caldrà disposar de MATLAB (versió r2020a). En aquest cas, caldrà seleccionar prèviament la ruta d’accés dins de la interfície gràfica de MATLAB. En clicar sobre l’arxiu, aquest s’obrirà al mateix temps que la interfície gràfica de MATLAB _app designer_.
+	-   **GeoSIV_codi1_12.mlapp**: Arxiu de codi font. Per a poder obrir-ho i editar, caldrà disposar de MATLAB (versió r2020a). En aquest cas, caldrà seleccionar prèviament la ruta d’accés dins de la interfície gràfica de MATLAB. En clicar sobre l’arxiu, aquest s’obrirà al mateix temps que la interfície gràfica de MATLAB _app designer_.
 
-	-   **Geo-SIV 1.0 2021 Guia Ràpida.pdf**: es tracta d’un document a on s’explica de manera bàsica la metodologia emprada en la construcció de l’aplicació, així com les instruccions per fer-la servir.
+	-   **Geo-SIV 1.1 2022 Guia Ràpida.pdf**: es tracta d’un document a on s’explica de manera bàsica la metodologia emprada en la construcció de l’aplicació, així com les instruccions per fer-la servir.
 
 -   **Arxius d’imatge (logos i informació)**:
 
