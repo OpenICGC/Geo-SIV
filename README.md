@@ -10,7 +10,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 L’usuari podrà distingir dues carpetes principals:
 
- - carpeta **Geo-SIV v1.1 executable**: Conté l’arxiu autònom d’instal·lació creat amb MATLAB app designer (Mathworks Inc.) compilat per a Microsoft WindowsTM (GeoSIV 1_0 installer.exe). Durant el procés d’instal·lació, es requerirà la baixada automàtica i gratuïta de certes llibreries de MATLAB per a la correcta execució de l’aplicació. Per tant, cal una connexió a internet activa durant la instal·lació de Geo-SIV en cas de no disposar prèviament d’aquestes llibreries.
+ - carpeta **Geo-SIV v1.1 executable**: Conté l’arxiu autònom d’instal·lació creat amb MATLAB app designer (Mathworks Inc.) compilat per a Microsoft WindowsTM (GeoSIV 1_1 installer.exe). Durant el procés d’instal·lació, es requerirà la baixada automàtica i gratuïta de certes llibreries de MATLAB per a la correcta execució de l’aplicació. Per tant, cal una connexió a internet activa durant la instal·lació de Geo-SIV en cas de no disposar prèviament d’aquestes llibreries.
 
  - carpeta **GeoSIV v1.1 files**: Conté l’arxiu del codi font a més d’una sèrie d’arxius necessaris per a la correcta compilació i execució de l’aplicació:
 
