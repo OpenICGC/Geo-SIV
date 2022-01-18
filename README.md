@@ -8,10 +8,6 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 **Instruccions sobre el contingut del repositori de la versió actual de Geo-SIV v1.1 (Gener de 2022):**
 
-L’usuari podrà distingir dues carpetes principals:
-
- - carpeta **Geo-SIV v1.1 executable**: Conté l’arxiu autònom d’instal·lació creat amb MATLAB app designer (Mathworks Inc.) compilat per a Microsoft WindowsTM (GeoSIV 1_1 installer.exe). Durant el procés d’instal·lació, es requerirà la baixada automàtica i gratuïta de certes llibreries de MATLAB per a la correcta execució de l’aplicació. Per tant, cal una connexió a internet activa durant la instal·lació de Geo-SIV en cas de no disposar prèviament d’aquestes llibreries.
-
  - carpeta **GeoSIV v1.1 files**: Conté l’arxiu del codi font a més d’una sèrie d’arxius necessaris per a la correcta compilació i execució de l’aplicació:
 
 	-   **GeoSIV_codi1_12.mlapp**: Arxiu de codi font. Per a poder obrir-ho i editar, caldrà disposar de MATLAB (versió r2020a). En aquest cas, caldrà seleccionar prèviament la ruta d’accés dins de la interfície gràfica de MATLAB. En clicar sobre l’arxiu, aquest s’obrirà al mateix temps que la interfície gràfica de MATLAB _app designer_.
@@ -43,8 +39,8 @@ L’usuari podrà distingir dues carpetes principals:
 		- **dies_heating_18.tif** (mapa dies en mode calefacció, àmbit Catalunya)
 		- **Difusivi.tif** (mapa difussivitat tèrmica del terreny, àmbit Catalunya)
 		- **MDE30x30.tif** (mapa altitud, àmbit Catalunya)
-		- **provincias.tif** (mapa distinció províncies, àmbit Catalunya)
-		- **t_med_air.tif** (mapa temperatura mitjana anual, àmbit Catalunya)
+		- **provincies.zip** (fitxer comprimit del mapa distinció províncies, àmbit Catalunya)
+		- **t_med_air.zip** (fitxer comprimit del mapa temperatura mitjana anual, àmbit Catalunya)
 		- **t050.tif** (mapa temperatura terreny profunditat 50 m, àmbit Catalunya)
 		- **t100.tif** (mapa temperatura terreny profunditat 100 m, àmbit Catalunya)
 		- **t150.tif** (mapa temperatura terreny profunditat 150 m, àmbit Catalunya)
