@@ -110,11 +110,11 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 	- **Arxius corresponents a l’eina externa COOLPROP [Bell I. H. et al., 2014] integrada per al càlcul de propietats físiques de l’aigua**:
 		- CoolPropsetup.m
-		- HAPropsSI.m**
+		- HAPropsSI.m
 		- incompressible_fluids.m
-		- moist_air.m**
-		- PropsSI.m**
-		- SwigRef.m**
+		- moist_air.m
+		- PropsSI.m
+		- SwigRef.m
 		- CoolPropMATLAB_wrap.mexw64
 		- Coolprop-howto.txt
 
