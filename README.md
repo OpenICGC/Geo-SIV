@@ -10,7 +10,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
  - carpeta **GeoSIV v1.1 files**: Conté l’arxiu del codi font a més d’una sèrie d’arxius necessaris per a la correcta compilació i execució de l’aplicació:
 
-	-   **GeoSIV_codi1_12.mlapp**: Arxiu de codi font. Per a poder obrir-ho i editar, caldrà disposar de MATLAB (versió r2020a). En aquest cas, caldrà seleccionar prèviament la ruta d’accés dins de la interfície gràfica de MATLAB. En clicar sobre l’arxiu, aquest s’obrirà al mateix temps que la interfície gràfica de MATLAB _app designer_.
+	-   **GeoSIV_codi1_12.mlapp**: Arxiu de **codi font**. Per a poder obrir-ho i editar, caldrà disposar de MATLAB (versió r2020a). En aquest cas, caldrà seleccionar prèviament la ruta d’accés dins de la interfície gràfica de MATLAB. En clicar sobre l’arxiu, aquest s’obrirà al mateix temps que la interfície gràfica de MATLAB _app designer_.
 
 	-   **Geo-SIV 1.1 2022 Guia Ràpida.pdf**: es tracta d’un document a on s’explica de manera bàsica la metodologia emprada en la construcció de l’aplicació, així com les instruccions per fer-la servir.
 
