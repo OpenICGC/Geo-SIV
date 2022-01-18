@@ -1,4 +1,4 @@
-# Geo-SIV v1.1 (Gener 2022)
+# Geo-SIV v1.1 (gener 2022)
  
 ## Programari per l’avaluació preliminar de Sistemes d’Intercanvi geotèrmic en circuit Vertical tancat per instal·lacions de climatització i ACS fins a 70 kW en el territori de Catalunya
 
