@@ -38,7 +38,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 		- **dies_cooling_23.tif** (mapa dies en mode refrigeració, àmbit Catalunya)
 		- **dies_heating_18.tif** (mapa dies en mode calefacció, àmbit Catalunya)
 		- **Difusivi.tif** (mapa difussivitat tèrmica del terreny, àmbit Catalunya)
-		- **MDE30x30.tif** (mapa altitud, àmbit Catalunya)
+		- **MDE30x30.zip** (fitxer comprimit del mapa altitud, àmbit Catalunya)
 		- **provincies.zip** (fitxer comprimit del mapa distinció províncies, àmbit Catalunya)
 		- **t_med_air.zip** (fitxer comprimit del mapa temperatura mitjana anual, àmbit Catalunya)
 		- **t050.tif** (mapa temperatura terreny profunditat 50 m, àmbit Catalunya)
