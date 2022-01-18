@@ -58,10 +58,6 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 		- **006_u_regular.xlsx** (d’acord amb el CTE 2019, valors regulars de transmitància tèrmica segons tipus d’element constructiu, i per a les 6 zones climàtiques d’hivern α, A, B, C, D i E)
 
-		- **007_Generic heat pumps.xlsx** (Valors de potència tèrmica i rendiment instantanis de bombes de calor geotèrmiques genèriques, per als modes d’operació calefacció, refrigeració i ACS)
-
-		- **007_Generic heat pumps_AER1.xlsx** (Valors de potència tèrmica i rendiment instantanis de bombes de calor geotèrmiques genèriques, per als modes d’operació calefacció, refrigeració i ACS)
-
 		- **007_Generic heat pumps_extended.xlsx** (Valors de potència tèrmica i rendiment instantanis de bombes de calor geotèrmiques genèriques, per als modes d’operació calefacció, refrigeració i ACS)
 
 		- **008_DR_calculation.xlsx** (Mitjana de l’amplitud d'oscil·lació tèrmica diària anual, per al mes de disseny d’estiu i per al mes de disseny d’hivern, per als set climes de referència que apliquen al territori de Catalunya, B3, C2, C3, D1, D2, D3 i E1)
