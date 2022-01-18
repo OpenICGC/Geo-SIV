@@ -141,7 +141,7 @@ L’usuari podrà distingir dues carpetes principals:
 
 - ASHRAE (_American Society of Heating, Refrigerating, and Air Conditioning Engineers_). “_ASHRAE Handbook of Fundamentals_ _Volume_” (1985)
 
-Bell I. H., Wronski J., Quoilin S. and Lemort V., “_Pure and Pseudo-pure Fluid Thermophysical Property Evaluation. the Open-Source Thermophysical Property Library CoolProp_”, Industrial & Engineering Chemistry Research 53 (6) (2014) 2498-2508 ([www.coolprop.org](http://www.coolprop.org))
+- Bell I. H., Wronski J., Quoilin S. and Lemort V., “_Pure and Pseudo-pure Fluid Thermophysical Property Evaluation. the Open-Source Thermophysical Property Library CoolProp_”, Industrial & Engineering Chemistry Research 53 (6) (2014) 2498-2508 ([www.coolprop.org](http://www.coolprop.org))
 
 - ICGC (Institut Cartogràfic i Geològic de Catalunya). “_Geoíndex. Geotèrmia superficial_”. (2018). Disponible a través del següent enllaç: [www.icgc.cat/ca/Administracio-i-empresa/Eines/Visualitzadors-Geoindex/Geoindex-Geotermia-superficial](https://www.icgc.cat/ca/Administracio-i-empresa/Eines/Visualitzadors-Geoindex/Geoindex-Geotermia-superficial)
 
