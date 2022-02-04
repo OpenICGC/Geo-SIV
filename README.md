@@ -114,7 +114,7 @@ El programaria permet calcular la demanda tèrmica mitjançant el “mètode de 
 
 **Com citar l'App**: 
 
-- García-Céspedes, J., Herms, I., Arnó, G., Ariza, J., De Felipe, J. J. (2022): Geo-SIV (v1.1) [programari]. Institut Cartogràfic i Geològic de Catalunya i Universitat Politècnica de Catalunya. CC-BY 4.0.
+- García-Céspedes, J., Herms, I., Arnó, G., Ariza, J., De Felipe, J. J. (2022): Geo-SIV (v1.2) [programari]. Institut Cartogràfic i Geològic de Catalunya i Universitat Politècnica de Catalunya. CC-BY 4.0.
 
 
 **Per a més informació:**
