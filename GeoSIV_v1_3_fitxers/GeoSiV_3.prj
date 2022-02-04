@@ -1,0 +1,206 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="4203794740" file="C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements\GeoSiV_3.prj" location="C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements" name="GeoSiV_3" preferred-package-location="C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements\GeoSIV_3_resources" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>GeoSIV</param.appname>
+    <param.icon>${PROJECT_ROOT}\GeoSiV_3_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\GeoSiV_3_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\GeoSiV_3_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\GeoSiV_3_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\GeoSiV_3_resources\icon_16.png</file>
+    </param.icons>
+    <param.version>1.3</param.version>
+    <param.authnamewatermark>Jordi García Céspedes (main)</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.summary>Programari per l’avaluació preliminar de sistemes d’Intercanvi geotèrmic en circuit vertical tancat a Catalunya (instal·lacions de &lt;70 kW)</param.summary>
+    <param.description>L’aplicació Geo-SIV (v 1.3 2023) és un programari lliure desenvolupat per l’Àrea de Recursos Geològics de l’Institut Cartogràfic i Geològic de Catalunya (ICGC) distribuït sota la llicència d’ús CC-BY, dissenyat per permetre efectuar avaluacions preliminars de sistemes d’intercanvi geotèrmic en circuit vertical tancat per instal·lacions de calefacció, refrigeració i aigua calenta sanitària de fins a 70 kW (tipus A i B d'acord amb la norma UNE-100715-2014) en el territori de Catalunya. El programaria permet calcular la demanda tèrmica mitjançant el mètode bin (RETScreen®, Natural Resources, Canada 2016) i dimensiona el camp de captació necessari mitjançant bescanviadors de calor geotèrmics (pous verticals de circuit tancat) en base a la teoria de la font lineal de Kelvin, que també és la base de la metodologia desenvolupada per la International Ground Source Heat Pump Association (IGSHPA) i també implementa a IDAE (2010). Les característiques de les bombes de calor geotèrmiques són seleccionades a partir d’una base de dades o introduïdes per l’usuari. L’eina utilitza dades geològiques i climatològiques publicades al GeoÍndex-Geotèrmia superficial de Catalunya (ICGC, 2018). L’aplicació també disposa d’un mòdul d’anàlisi econòmica i ambiental que permet comparar la solució projectada basada en geotèrmia superficial respecte altres tecnologies renovables i no renovables. Les dades de sortida es poden utilitzar per a estudis de pre-viabilitat. El codi s’ha implementat mitjançant el programari MATLAB (validat fins a versió R2022b)</param.description>
+    <param.screenshot>${PROJECT_ROOT}\PORTADA.jpg</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\GeoSIV_InstallationFiles\</param.installpath.string>
+    <param.installpath.combo>option.installpath.appdata</param.installpath.combo>
+    <param.logo>${PROJECT_ROOT}\Logo_installation.JPG</param.logo>
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\GeoSIV_3_resources</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\GeoSIV_3_resources</param.files.only>
+    <param.output>${PROJECT_ROOT}\GeoSIV_3_resources</param.output>
+    <param.logdir>${PROJECT_ROOT}\GeoSIV_3_resources</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.native.matlab>false</param.native.matlab>
+    <param.checkbox>false</param.checkbox>
+    <param.example />
+    <param.help.text>Syntax 
+	  -? 
+	 
+ Input Arguments 
+	 -?  print help on how to use the application 
+	 input arguments</param.help.text>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.guid />
+      <param.install.notes />
+      <param.target.install.notes />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+      <param.native.matlab />
+      <param.checkbox />
+      <param.example />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\GeoSIV_codi1_16.mlapp</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\001_Yearly t-bin.xlsx</file>
+      <file>${PROJECT_ROOT}\004_Hourly t-bin.xlsx</file>
+      <file>${PROJECT_ROOT}\005_u_limit.xlsx</file>
+      <file>${PROJECT_ROOT}\007_Generic heat pumps_extended.xlsx</file>
+      <file>${PROJECT_ROOT}\008_DR_calculation.xlsx</file>
+      <file>${PROJECT_ROOT}\009_Design temperatures.xlsx</file>
+      <file>${PROJECT_ROOT}\012_Monthly t-bin.xlsx</file>
+      <file>${PROJECT_ROOT}\013_Monthly t-binPla.xlsx</file>
+      <file>${PROJECT_ROOT}\013_Monthly t-binPunta.xlsx</file>
+      <file>${PROJECT_ROOT}\013_Monthly t-binVall.xlsx</file>
+      <file>${PROJECT_ROOT}\014_Monthly_binIRPla.xlsx</file>
+      <file>${PROJECT_ROOT}\014_Monthly_binIRPunta.xlsx</file>
+      <file>${PROJECT_ROOT}\014_Monthly_binIRVall.xlsx</file>
+      <file>${PROJECT_ROOT}\015_Monthly_Irr4SolarThermal.xlsx</file>
+      <file>${PROJECT_ROOT}\016_rough_IRR30.xlsx</file>
+      <file>${PROJECT_ROOT}\017_time_and_tariff.xlsx</file>
+      <file>${PROJECT_ROOT}\018_parametersEcoAmb.xlsx</file>
+      <file>${PROJECT_ROOT}\019_parametres_calcul_carregues.xlsx</file>
+      <file>${PROJECT_ROOT}\01_Logo_corto_Geo-SIV.png</file>
+      <file>${PROJECT_ROOT}\020_humitat_relativa_IRR30anual.xlsx</file>
+      <file>${PROJECT_ROOT}\021_IRR90_orientacio_estacio.xlsx</file>
+      <file>${PROJECT_ROOT}\022_Monthly t-Solarbin.xlsx</file>
+      <file>${PROJECT_ROOT}\022_Yearly t-Solarbin.xlsx</file>
+      <file>${PROJECT_ROOT}\023_Monthly t-SolarbinPla.xlsx</file>
+      <file>${PROJECT_ROOT}\023_Monthly t-SolarbinPunta.xlsx</file>
+      <file>${PROJECT_ROOT}\023_Monthly t-SolarbinVall.xlsx</file>
+      <file>${PROJECT_ROOT}\03_Logo_CC-BY_4.0.png</file>
+      <file>${PROJECT_ROOT}\05_Logo_UPC.png</file>
+      <file>${PROJECT_ROOT}\alerta_icono_2.png</file>
+      <file>${PROJECT_ROOT}\CAS A.png</file>
+      <file>${PROJECT_ROOT}\CAS B1.PNG</file>
+      <file>${PROJECT_ROOT}\CAS B2.PNG</file>
+      <file>${PROJECT_ROOT}\Coolprop-howto.txt</file>
+      <file>${PROJECT_ROOT}\COOLPROP_INFO.pdf</file>
+      <file>${PROJECT_ROOT}\CoolPropMATLAB_wrap.mexw64</file>
+      <file>${PROJECT_ROOT}\CoolPropsetup.m</file>
+      <file>${PROJECT_ROOT}\DESCRIPCIO_CAT.jpg</file>
+      <file>${PROJECT_ROOT}\dias_cooling_23.tif</file>
+      <file>${PROJECT_ROOT}\dias_heating_18.tif</file>
+      <file>${PROJECT_ROOT}\DireccioN.PNG</file>
+      <file>${PROJECT_ROOT}\Geo-SIV 1.3 2023 Guia Ràpida.pdf</file>
+      <file>${PROJECT_ROOT}\HAPropsSI.m</file>
+      <file>${PROJECT_ROOT}\icono_GeoSIV.JPG</file>
+      <file>${PROJECT_ROOT}\Llegiu-me.txt</file>
+      <file>${PROJECT_ROOT}\Logo_installation.JPG</file>
+      <file>${PROJECT_ROOT}\Logos&amp;ICGC@UPC.JPG</file>
+      <file>${PROJECT_ROOT}\MDE30x30.tif</file>
+      <file>${PROJECT_ROOT}\Metodologia_GeoSIV.JPG</file>
+      <file>${PROJECT_ROOT}\MUSE_t050.tif</file>
+      <file>${PROJECT_ROOT}\MUSE_ThermalConductivity.tif</file>
+      <file>${PROJECT_ROOT}\MUSE_ThermalDifusivity.tif</file>
+      <file>${PROJECT_ROOT}\PORTADA.jpg</file>
+      <file>${PROJECT_ROOT}\PropsSI.m</file>
+      <file>${PROJECT_ROOT}\provincias.tif</file>
+      <file>${PROJECT_ROOT}\SwigRef.m</file>
+      <file>${PROJECT_ROOT}\t050.tif</file>
+      <file>${PROJECT_ROOT}\t100.tif</file>
+      <file>${PROJECT_ROOT}\t150.tif</file>
+      <file>${PROJECT_ROOT}\t_med_air.tif</file>
+      <file>${PROJECT_ROOT}\ThermalConductivity.tif</file>
+      <file>${PROJECT_ROOT}\ThermalDifusivity.tif</file>
+      <file>${PROJECT_ROOT}\U-doble.PNG</file>
+      <file>${PROJECT_ROOT}\U-simple.PNG</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\GeoSIV_3_resources" name="readme.txt" optional="true">C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements\GeoSIV_3_resources\readme.txt</file>
+      <file location="${PROJECT_ROOT}\GeoSIV_3_resources" name="GeoSIV.exe" optional="false">C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements\GeoSIV_3_resources\GeoSIV.exe</file>
+      <file location="${PROJECT_ROOT}\GeoSIV_3_resources" name="splash.png" optional="false">C:\Users\diupc.j.garcia\Documents\03_ICGC_GeoSIV\04_GeoSIV_BuildingElements\GeoSIV_3_resources\splash.png</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2022b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

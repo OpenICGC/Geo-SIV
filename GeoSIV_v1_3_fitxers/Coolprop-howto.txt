@@ -1,0 +1,45 @@
+MATLAB HOWTO
+
+0- Choose your environment:
+
+	Windows 32 bits: CoolPropMATLAB_wrap.mexw32
+	Windows 64 bits: CoolPropMATLAB_wrap.mexw64
+	Mac OS 64 bits: CoolPropMATLAB_wrap.mexmaci64
+
+1- Download the files from https://sourceforge.net/projects/coolprop/files/CoolProp/6.1.0/MATLAB/
+	- CoolPropMATLAB_wrap.XXXXX (According to point 0)
+	- +CoolProp.7z
+	- SwigRef.m
+	- CoolPropsetup.m
+
+2- Extract 7z file and copy the downloads files according to this structure:
+	main
+	 |- SwigRef.m
+	 |- CoolPropsetup.m
+	 |- CoolPropMATLAB_wrap.mexw64
+	 |- +CoolProp
+	    |- AbstractState.m
+	    |- DmassHmass_INPUTS.m
+	    |- ...
+
+3- Open matlab and add this folder to path:
+	addpath('C:/Users/username/Desktop/main')
+
+
+REFERENCE: http://www.coolprop.org/coolprop/wrappers/MATLAB/index.html#matlab
+
+---------------------------------------------------------------------------------------------------
+
+PYTHON HOWTO
+
+1- Install program pip:
+	- On Debian/Ubuntu: sudo apt-get install python-pip
+	- On Redhat/CentOS: sudo yum install python-pip
+
+2- Install coolprop:
+	- pip install -vvv --pre --trusted-host www.coolprop.dreamhosters.com --find-links http://www.coolprop.dreamhosters.com/binaries/Python/ -U --force-reinstall CoolProp
+
+2b- If the last command return an error:
+	- pip install coolprop
+
+REFERENCE: http://www.coolprop.org/coolprop/wrappers/Python/index.html#python
